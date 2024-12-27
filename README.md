@@ -42,6 +42,7 @@ The **Song Recommender** system allows you to find similar songs from Taylor Swi
 
   ![Alt text](TSwift/data/images/SR1.png)
 - **Recommendations**: Once a song is selected, the system will display the song you chose and play a preview of it. It will also suggest 5 similar Taylor Swift songs based on features like energy, danceability, and popularity.
+
   ![Alt text](TSwift/data/images/SR2.png)
 - **Listen to Previews**: The recommended songs will also have their previews played through Spotify.
 
