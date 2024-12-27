@@ -46,3 +46,23 @@ The **Song Recommender** system allows you to find similar songs from Taylor Swi
   ![Alt text](TSwift/data/images/SR2.png)
 - **Listen to Previews**: The recommended songs will also have their previews played through Spotify.
 
+
+## Keyword Extraction 🔑
+
+In this component, we perform keyword extraction for each song in Taylor Swift's *Lover* album. We use the **TF-IDF** (Term Frequency-Inverse Document Frequency) method to identify the most significant words in the lyrics of each song.
+
+### How it Works:
+- **TF-IDF Calculation**: For each song's lyrics, we calculate the frequency of each word (Term Frequency) and how unique the word is across all songs (Inverse Document Frequency).
+- **Word Cloud Generation**: After calculating the TF-IDF scores, we visualize the most important words for each song using a word cloud.
+
+### How to Use
+- **Select an Album**: Select a song from the dropdown list.
+
+  ![Alt text](TSwift/data/images/K1.png)
+- **Extract Keywords**: The system will calculate the TF-IDF scores for all songs in the album and accordingly extract the top keywords for each song.
+- **View Word Clouds**: A word cloud will be generated for each song, displaying the most relevant keywords based on the lyrics.
+
+  ![Alt text](TSwift/data/images/K2.png)
+
+
+
