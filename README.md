@@ -39,8 +39,6 @@ The **Song Recommender** system allows you to find similar songs from Taylor Swi
 
 ### How to Use
 - **Choose a song**: Select a song from the dropdown list.
-
-  ![Alt text](TSwift/data/images/SR1.png)
 - **Recommendations**: Once a song is selected, the system will display the song you chose and play a preview of it. It will also suggest 5 similar Taylor Swift songs based on features like energy, danceability, and popularity.
 
   ![Alt text](TSwift/data/images/SR2.png)
@@ -57,8 +55,6 @@ In this component, we perform keyword extraction for each song in Taylor Swift's
 
 ### How to Use
 - **Select an Album**: Select a song from the dropdown list.
-
-  ![Alt text](TSwift/data/images/K1.png)
 - **Extract Keywords**: The system will calculate the TF-IDF scores for all songs in the album and accordingly extract the top keywords for each song.
 - **View Word Clouds**: A word cloud will be generated for each song, displaying the most relevant keywords based on the lyrics.
 
