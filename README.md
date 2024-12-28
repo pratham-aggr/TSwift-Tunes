@@ -52,6 +52,7 @@ The **Lyrics Searcher** allows you to search for specific lyrics in Taylor Swift
 - **Enter a Search Term**: Type in any word or phrase from the lyrics to search for.
 - **Retrieve Results**: The system will return the songs that have the highest relevance to the search term 
 - **Review Song Excerpts**: See which songs contain the search term and review the lyrics.
+- 
 ![Alt text](TSwift/data/images/LS1.png)
 
 ## Keyword Extraction 🔑
