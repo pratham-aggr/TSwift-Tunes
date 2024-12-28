@@ -44,6 +44,15 @@ The **Song Recommender** system allows you to find similar songs from Taylor Swi
   ![Alt text](TSwift/data/images/SR2.png)
 - **Listen to Previews**: The recommended songs will also have their previews played through Spotify.
 
+## Lyrics Searcher 🔍
+
+The **Lyrics Searcher** allows you to search for specific lyrics in Taylor Swift’s songs using TF-IDF. This tool is inspired by **Shayna Kothari's Online Tool for Taylor Swift Lyrics**, which provides a powerful way to analyze and query Taylor Swift's lyrics.
+
+### Example Usage 
+- **Enter a Search Term**: Type in any word or phrase from the lyrics to search for.
+- **Retrieve Results**: The system will return the songs that have the highest relevance to the search term 
+- **Review Song Excerpts**: See which songs contain the search term and review the lyrics.
+![Alt text](TSwift/data/images/LS1.png)
 
 ## Keyword Extraction 🔑
 
