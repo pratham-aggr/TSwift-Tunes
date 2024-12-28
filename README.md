@@ -1,6 +1,6 @@
 # TSwift Tunes: Exploring, Recommending & Searching Through Taylor Swift's Music
 
-Welcome to the **TSwift Tunes** project! I completed this project as part of my **DSC 10** course at **UC San Diego**. This project explores Taylor Swift’s music through data analysis and machine learning. It includes visualizations, a song recommender system, and a lyrics searcher, all powered by the `tswift` dataset. The project answers key questions about her songs and albums, analyzes audio features, and provides interactive tools for song recommendations and lyric searching.
+Welcome to the **TSwift Tunes** project! This project explores Taylor Swift’s music through data analysis and machine learning. It includes visualizations, a song recommender system, and a lyrics searcher, all powered by the `tswift` dataset. The project answers key questions about her songs and albums, analyzes audio features, and provides interactive tools for song recommendations and lyric searching.
 
 ## Project Overview
 
