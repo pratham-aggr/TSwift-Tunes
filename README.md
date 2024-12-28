@@ -69,7 +69,7 @@ In this component, I perform keyword extraction for each song in Taylor Swift's 
   
 ## Contributions 🤝
 
-This project was developed as part of my DSC 10 ![Alt text](https://catalog.ucsd.edu/courses/DSC.html) class at UC San Diego. The DSC 10 team ![Alt text](https://dsc10.com/staff/) provided invaluable support throughout the project, helping shape the direction of my analysis and guiding me with key insights. They provided essential data sources and offered hints to help me move forward with the project. 
+This project was developed as part of my [DSC 10](https://catalog.ucsd.edu/courses/DSC.html) class at UC San Diego. The [DSC 10 team](https://dsc10.com/staff/) provided invaluable support throughout the project, helping shape the direction of my analysis and guiding me with key insights. They provided essential data sources and offered hints to help me move forward with the project. 
 
 Furthermore, the DSC 10 team played a crucial role in shaping my analysis into a more accessible form by transforming it into interactive widgets and creating a user-friendly interface. Their expertise in data science and user experience was essential to making this project engaging and easy to interact with.
 
