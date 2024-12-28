@@ -1,6 +1,6 @@
 # TSwift Tunes: Exploring, Recommending & Searching Through Taylor Swift's Music
 
-Welcome to the **TSwift Tunes** project! This project, completed as part of the DSC 10 course at UC San Diego, explores Taylor Swift’s music through data analysis and machine learning. It includes visualizations, a song recommender system, and a lyrics searcher, all powered by the `tswift` dataset. The project answers key questions about her songs and albums, analyzes audio features, and provides interactive tools for song recommendations and lyric searching.
+Welcome to the **TSwift Tunes** project! This project, completed as part of the **DSC 10** course at **UC San Diego**, explores Taylor Swift’s music through data analysis and machine learning. It includes visualizations, a song recommender system, and a lyrics searcher, all powered by the `tswift` dataset. The project answers key questions about her songs and albums, analyzes audio features, and provides interactive tools for song recommendations and lyric searching.
 
 ## Project Overview
 
@@ -71,9 +71,9 @@ In this component, we perform keyword extraction for each song in Taylor Swift's
 
 ## Contributions 🤝
 
-This project was developed as part of my DSC 10 class at UC San Diego. The DSC 10 team provided invaluable support throughout the project, guiding us in shaping the direction of our analysis and offering key insights. They provided essential data sources and helpful hints to advance the project.
+This project was developed as part of my **DSC 10** class at **UC San Diego**. The **DSC 10 team** provided invaluable support throughout the project, guiding us in shaping the direction of our analysis and offering key insights. They provided essential data sources and helpful hints to advance the project.
 
-Moreover, the DSC 10 team played a crucial role in transforming our analysis into a more accessible and engaging form by turning it into interactive widgets and designing a user-friendly interface. Their expertise in data science and user experience was critical in making this project both informative and easy to interact with.
+Moreover, the **DSC 10 team** played a crucial role in transforming our analysis into a more accessible and engaging form by turning it into interactive widgets and designing a user-friendly interface. Their expertise in data science and user experience was critical in making this project both informative and easy to interact with.
 
 This project would not have been possible without the contributions and support from the **DSC 10 team**, and I am extremely grateful for their assistance throughout the process.
 
