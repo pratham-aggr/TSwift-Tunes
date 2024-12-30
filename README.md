@@ -4,8 +4,6 @@ Welcome to the **TSwift Tunes** project! This project explores Taylor Swift’s 
 
 ## Project Overview
 
-This repository contains the following components:
-
 - **Data Exploration and Visualization**: I use the `tswift` DataFrame to explore Taylor Swift's music and answer key questions.
 - **Song Recommendation System**: I built a recommender that suggests similar songs based on audio features and user preferences.
 - **Lyrics Searcher**: A tool that allows you to search for specific lyrics in Taylor Swift's songs using TF-IDF.
