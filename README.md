@@ -1,4 +1,4 @@
-# TSwift Tunes: Exploring, Recommending & Searching Through Taylor Swift's Music
+# Exploring, Recommending & Searching Through Taylor Swift's Music
 
 [![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)]()
 
