@@ -1,6 +1,6 @@
 # Exploring, Recommending & Searching Through Taylor Swift's Music
 
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)](https://github.com/pratham-aggr/TSwift-Tunes.git)
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)](https://github.com/pratham-aggr/TSwift-Tunes/blob/main/TSwift/Tswift.ipynb)
 
 Welcome to the **TSwift Tunes** project! This project explores Taylor Swift’s music through data analysis and machine learning. It includes visualizations, a song recommender system, and a lyrics searcher, all powered by the `tswift` dataset. The project answers key questions about her songs and albums, analyzes audio features, and provides interactive tools for song recommendations and lyric searching.
 
